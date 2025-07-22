@@ -85,6 +85,5 @@ My next focus will be on intermediate challenges that involve layout structuring
 
 ### Author
 
-- GitHub – @AyushRai07
-
-- Frontend Mentor – @AyushRai07
+- GitHub - [@AyushRai07](https://github.com/AyushRai07)
+- Frontend Mentor – [@AyushRai07](https://www.frontendmentor.io/profile/AyushRai07)
